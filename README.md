@@ -1,6 +1,6 @@
 # Neuromorphic Processing of Event Based Camera For Low Latency Application
 ```bash
-Steps
+Project's Objectives
 ```
 1. Pre-Process IBM DVS Gesture Dataset. 
 2. Define Spiking Neural Networks models. 
