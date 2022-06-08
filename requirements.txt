@@ -2,6 +2,7 @@ Brian2==2.2.2.1
 cached-property==1.5.2
 cycler==0.10.0
 Cython==0.29.24
+dv
 h5py==3.4.0
 imageio==2.9.0
 imageio-ffmpeg==0.4.5
